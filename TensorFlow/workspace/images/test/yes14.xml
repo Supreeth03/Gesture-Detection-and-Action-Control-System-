@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img label</folder>
+	<filename>yes14.jpg</filename>
+	<path>D:\img label\yes14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>831</ymin>
+			<xmax>1146</xmax>
+			<ymax>1379</ymax>
+		</bndbox>
+	</object>
+</annotation>

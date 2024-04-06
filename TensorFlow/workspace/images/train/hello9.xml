@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img label</folder>
+	<filename>hello9.jpg</filename>
+	<path>D:\img label\hello9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>555</ymin>
+			<xmax>475</xmax>
+			<ymax>1220</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img label</folder>
+	<filename>thanks12.jpg</filename>
+	<path>D:\img label\thanks12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thank you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>499</ymin>
+			<xmax>1164</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>
